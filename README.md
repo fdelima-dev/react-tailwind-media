@@ -1,4 +1,4 @@
-![Imagem](src/assets/05-media.png)
+![Imagem](src/assets/05%-%media.png)
 
 # React + Vite
 

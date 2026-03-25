@@ -1,3 +1,5 @@
+![Imagem](src/assets/05-media.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
